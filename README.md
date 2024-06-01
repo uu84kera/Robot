@@ -1,5 +1,5 @@
 # Robot
 
-### Create a robot which can move with the navigation in a specific space and has a arm to catch the object
+### Design a robot in a specific space which can move to the position with object with the navigation and has a arm to find and catch the object
 
 
